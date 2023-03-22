@@ -1,11 +1,11 @@
 [{
-    "question":"In which lane you want to play ?",
+    "question":"In which lane do you want to play ?",
     "answer":["top","jungler","mid","adc","support"],
     "nb_answer":"multiple",
     "id":0
 },
 {
-    "question":"Do you want to be a melee or range ?",
+    "question":"Do you want to be a melee or a range ?",
     "answer":["melee","range"],
     "nb_answer":"single",
     "id":1
@@ -23,7 +23,7 @@
     "id":3
 },
 {
-    "question":"Which role you prefer ?",
+    "question":"Which role do you like best?",
     "answer":["assassin","fighter","mage","marksmen","enchanters","tank"],
     "nb_answer":"multiple",
     "id":4
@@ -35,13 +35,13 @@
     "id":5
 },
 {
-    "question":"What is the minium mobility acceptable ?",
+    "question":"What is the minimal acceptable mobility?",
     "answer":["not very mobile","mobile","very mobile"],
     "nb_answer":"single",
     "id":6
 },
 {
-    "question":"Does the champion need to have a dash ?",
+    "question":"Does your champion require a dash?",
     "answer":["yes","no"],
     "nb_answer":"single",
     "id":7

@@ -3,12 +3,16 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    row-gap: 30px;
+    row-gap: 20px;
     padding: 50px;
     min-width: 78vw;
     min-height: 50vh;
     background-color: rgba(0,0,0,0.4);
     box-shadow: 0 0 80px rgba(0,0,0,1);
+}
+
+.logo {
+    width: 500px;
 }
 
 .quiz-page.result {
