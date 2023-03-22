@@ -1,0 +1,6382 @@
+[
+ {
+  "attack_type": [
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "266",
+  "lane": [
+   "top"
+  ],
+  "lowername": "aatrox",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Aatrox",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "103",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "ahri",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Ahri",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "84",
+  "lane": [
+   "top",
+   "mid"
+  ],
+  "lowername": "akali",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Akali",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin",
+   "mage"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "easy",
+   "moderate",
+   "hard"
+  ],
+  "id": "166",
+  "lane": [
+   "top",
+   "mid"
+  ],
+  "lowername": "akshan",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Akshan",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "12",
+  "lane": [
+   "support"
+  ],
+  "lowername": "alistar",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Alistar",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "tank",
+   "enchanters"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "32",
+  "lane": [
+   "jungler",
+   "support"
+  ],
+  "lowername": "amumu",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Amumu",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "enchanters",
+   "tank"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "34",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "anivia",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Anivia",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "1",
+  "lane": [
+   "mid",
+   "support"
+  ],
+  "lowername": "annie",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Annie",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "enchanters"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks",
+   "abilities"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "523",
+  "lane": [
+   "adc"
+  ],
+  "lowername": "aphelios",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Aphelios",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "22",
+  "lane": [
+   "adc",
+   "support"
+  ],
+  "lowername": "ashe",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Ashe",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen",
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "136",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "aurelionsol",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Aurelion Sol",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "268",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "azir",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Azir",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "432",
+  "lane": [
+   "support"
+  ],
+  "lowername": "bard",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Bard",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "enchanters"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "200",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "belveth",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Bel'Veth",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "53",
+  "lane": [
+   "support"
+  ],
+  "lowername": "blitzcrank",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Blitzcrank",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "enchanters",
+   "tank"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "63",
+  "lane": [
+   "mid",
+   "support"
+  ],
+  "lowername": "brand",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Brand",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "201",
+  "lane": [
+   "support"
+  ],
+  "lowername": "braum",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Braum",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "enchanters",
+   "tank"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks",
+   "abilities"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "51",
+  "lane": [
+   "mid",
+   "adc"
+  ],
+  "lowername": "caitlyn",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Caitlyn",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "assassin",
+   "marksmen"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks",
+   "abilities"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "164",
+  "lane": [
+   "top"
+  ],
+  "lowername": "camille",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Camille",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "69",
+  "lane": [
+   "top",
+   "mid"
+  ],
+  "lowername": "cassiopeia",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Cassiopeia",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "fighter",
+   "mage"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "31",
+  "lane": [
+   "top",
+   "jungler"
+  ],
+  "lowername": "chogath",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Cho'Gath",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "tank"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "42",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "corki",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Corki",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "122",
+  "lane": [
+   "top"
+  ],
+  "lowername": "darius",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Darius",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "131",
+  "lane": [
+   "jungler",
+   "mid"
+  ],
+  "lowername": "diana",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Diana",
+  "range": [
+   "melee",
+   "range"
+  ],
+  "role": [
+   "assassin",
+   "mage"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "36",
+  "lane": [
+   "top",
+   "jungler"
+  ],
+  "lowername": "drmundo",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Dr.Mundo",
+  "range": [
+   "melee",
+   "range"
+  ],
+  "role": [
+   "fighter",
+   "tank"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "119",
+  "lane": [
+   "adc"
+  ],
+  "lowername": "draven",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Draven",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "245",
+  "lane": [
+   "jungler",
+   "mid"
+  ],
+  "lowername": "ekko",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Ekko",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin",
+   "mage"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "60",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "elise",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Elise",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "28",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "evelynn",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Evelynn",
+  "range": [
+   "melee",
+   "range"
+  ],
+  "role": [
+   "assassin"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic",
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "81",
+  "lane": [
+   "mid",
+   "adc"
+  ],
+  "lowername": "ezreal",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Ezreal",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "marksmen"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "9",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "fiddlesticks",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "FiddleSticks",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "assassin",
+   "mage"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "114",
+  "lane": [
+   "top"
+  ],
+  "lowername": "fiora",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Fiora",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "105",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "fizz",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Fizz",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin",
+   "mage"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "3",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "galio",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Galio",
+  "range": [
+   "melee",
+   "range"
+  ],
+  "role": [
+   "mage",
+   "tank"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "41",
+  "lane": [
+   "top",
+   "mid"
+  ],
+  "lowername": "gangplank",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Gangplank",
+  "range": [
+   "melee",
+   "range"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "86",
+  "lane": [
+   "top"
+  ],
+  "lowername": "garen",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Garen",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "150",
+  "lane": [
+   "top"
+  ],
+  "lowername": "gnar",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Gnar",
+  "range": [
+   "melee",
+   "range"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "79",
+  "lane": [
+   "top",
+   "mid",
+   "jungler"
+  ],
+  "lowername": "gragas",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Gragas",
+  "range": [
+   "melee",
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "104",
+  "lane": [
+   "top",
+   "jungler"
+  ],
+  "lowername": "graves",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Graves",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "assassin",
+   "fighter"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "887",
+  "lane": [
+   "top"
+  ],
+  "lowername": "gwen",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Gwen",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "mage"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "120",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "hecarim",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Hecarim",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "74",
+  "lane": [
+   "mid",
+   "support"
+  ],
+  "lowername": "heimerdinger",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Heimerdinger",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "enchanters"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "420",
+  "lane": [
+   "top"
+  ],
+  "lowername": "illaoi",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Illaoi",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "39",
+  "lane": [
+   "top",
+   "mid"
+  ],
+  "lowername": "irelia",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Irelia",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "427",
+  "lane": [
+   "jungler",
+   "support"
+  ],
+  "lowername": "ivern",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Ivern",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "40",
+  "lane": [
+   "support"
+  ],
+  "lowername": "janna",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Janna",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "59",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "jarvaniv",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Jarvan IV",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin",
+   "fighter"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic",
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "24",
+  "lane": [
+   "top"
+  ],
+  "lowername": "jax",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Jax",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "126",
+  "lane": [
+   "top",
+   "mid"
+  ],
+  "lowername": "jayce",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Jayce",
+  "range": [
+   "melee",
+   "range"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "202",
+  "lane": [
+   "adc"
+  ],
+  "lowername": "jhin",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Jhin",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "222",
+  "lane": [
+   "adc"
+  ],
+  "lowername": "jinx",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Jinx",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "897",
+  "lane": [
+   "top"
+  ],
+  "lowername": "ksante",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "K'Sante",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "tank"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "145",
+  "lane": [
+   "adc"
+  ],
+  "lowername": "kaisa",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Kai'Sa",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "429",
+  "lane": [
+   "adc"
+  ],
+  "lowername": "kalista",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Kalista",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "43",
+  "lane": [
+   "support"
+  ],
+  "lowername": "karma",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Karma",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "30",
+  "lane": [
+   "jungler",
+   "mid"
+  ],
+  "lowername": "karthus",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Karthus",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "38",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "kassadin",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Kassadin",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "55",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "katarina",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Katarina",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin",
+   "mage"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic",
+   "physical"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "10",
+  "lane": [
+   "top",
+   "mid"
+  ],
+  "lowername": "kayle",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Kayle",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "fighter",
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "141",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "kayn",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Kayn",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin",
+   "fighter"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "85",
+  "lane": [
+   "top"
+  ],
+  "lowername": "kennen",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Kennen",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "121",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "khazix",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Kha'Zix",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "203",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "kindred",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Kindred",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "assassin",
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "240",
+  "lane": [
+   "top"
+  ],
+  "lowername": "kled",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Kled",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "96",
+  "lane": [
+   "adc"
+  ],
+  "lowername": "kogmaw",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Kog'Maw",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "7",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "leblanc",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "LeBlanc",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "assassin",
+   "mage"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "64",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "leesin",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Lee Sin",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "89",
+  "lane": [
+   "support"
+  ],
+  "lowername": "leona",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Leona",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "enchanters",
+   "tank"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "876",
+  "lane": [
+   "top",
+   "jungler"
+  ],
+  "lowername": "lillia",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Lillia",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "mage"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "127",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "lissandra",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Lissandra",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks",
+   "abilities"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "236",
+  "lane": [
+   "adc"
+  ],
+  "lowername": "lucian",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Lucian",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "117",
+  "lane": [
+   "support"
+  ],
+  "lowername": "lulu",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Lulu",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "99",
+  "lane": [
+   "mid",
+   "support"
+  ],
+  "lowername": "lux",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Lux",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "54",
+  "lane": [
+   "top"
+  ],
+  "lowername": "malphite",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Malphite",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "mage",
+   "tank"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "90",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "malzahar",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Malzahar",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "57",
+  "lane": [
+   "jungler",
+   "support"
+  ],
+  "lowername": "maokai",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Maokai",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "mage",
+   "enchanters",
+   "tank"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "11",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "masteryi",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Master Yi",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "21",
+  "lane": [
+   "adc"
+  ],
+  "lowername": "missfortune",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Miss Fortune",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "82",
+  "lane": [
+   "top",
+   "jungler"
+  ],
+  "lowername": "mordekaiser",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Mordekaiser",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "tank"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "25",
+  "lane": [
+   "support"
+  ],
+  "lowername": "morgana",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Morgana",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "267",
+  "lane": [
+   "support"
+  ],
+  "lowername": "nami",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Nami",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "enchanters"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "75",
+  "lane": [
+   "top",
+   "jungler"
+  ],
+  "lowername": "nasus",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Nasus",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "tank"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "111",
+  "lane": [
+   "support"
+  ],
+  "lowername": "nautilus",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Nautilus",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "enchanters",
+   "tank"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "518",
+  "lane": [
+   "mid",
+   "support"
+  ],
+  "lowername": "neeko",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Neeko",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "76",
+  "lane": [
+   "jungler",
+   "mid",
+   "support"
+  ],
+  "lowername": "nidalee",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Nidalee",
+  "range": [
+   "melee",
+   "range"
+  ],
+  "role": [
+   "assassin",
+   "mage"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "895",
+  "lane": [
+   "adc"
+  ],
+  "lowername": "nilah",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Nilah",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "56",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "nocturne",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Nocturne",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin",
+   "fighter"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "20",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "nunu",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Nunu & Willump",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "mage",
+   "tank"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "2",
+  "lane": [
+   "top",
+   "jungler"
+  ],
+  "lowername": "olaf",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Olaf",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "61",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "orianna",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Orianna",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "516",
+  "lane": [
+   "top"
+  ],
+  "lowername": "ornn",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Ornn",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "tank"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "80",
+  "lane": [
+   "top",
+   "mid",
+   "support"
+  ],
+  "lowername": "pantheon",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Pantheon",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin",
+   "fighter"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "78",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "poppy",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Poppy",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "555",
+  "lane": [
+   "support"
+  ],
+  "lowername": "pyke",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Pyke",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "246",
+  "lane": [
+   "jungler",
+   "mid"
+  ],
+  "lowername": "qiyana",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Qiyana",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "133",
+  "lane": [
+   "top"
+  ],
+  "lowername": "quinn",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Quinn",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "497",
+  "lane": [
+   "support"
+  ],
+  "lowername": "rakan",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Rakan",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "33",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "rammus",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Rammus",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "tank"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "421",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "reksai",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Rek'Sai",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "526",
+  "lane": [
+   "support"
+  ],
+  "lowername": "rell",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Rell",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "enchanters",
+   "tank"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "888",
+  "lane": [
+   "support"
+  ],
+  "lowername": "renata",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Renata Glasc",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "enchanters"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "58",
+  "lane": [
+   "top",
+   "mid"
+  ],
+  "lowername": "renekton",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Renekton",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "assassin"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "107",
+  "lane": [
+   "top",
+   "jungler"
+  ],
+  "lowername": "rengar",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Rengar",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "92",
+  "lane": [
+   "top"
+  ],
+  "lowername": "riven",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Riven",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "68",
+  "lane": [
+   "top",
+   "jungler",
+   "mid"
+  ],
+  "lowername": "rumble",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Rumble",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "13",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "ryze",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Ryze",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks",
+   "abilities"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "360",
+  "lane": [
+   "adc"
+  ],
+  "lowername": "samira",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Samira",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "113",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "sejuani",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Sejuani",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "tank"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "235",
+  "lane": [
+   "mid",
+   "support"
+  ],
+  "lowername": "senna",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Senna",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "147",
+  "lane": [
+   "mid",
+   "support"
+  ],
+  "lowername": "seraphine",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Seraphine",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "875",
+  "lane": [
+   "top"
+  ],
+  "lowername": "sett",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Sett",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "tank"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic",
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "35",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "shaco",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Shaco",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin",
+   "mage"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "98",
+  "lane": [
+   "top"
+  ],
+  "lowername": "shen",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Shen",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "tank"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "102",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "shyvana",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Shyvana",
+  "range": [
+   "melee",
+   "range"
+  ],
+  "role": [
+   "mage",
+   "tank"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "27",
+  "lane": [
+   "top",
+   "jungler"
+  ],
+  "lowername": "singed",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Singed",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "tank"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "14",
+  "lane": [
+   "top",
+   "jungler"
+  ],
+  "lowername": "sion",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Sion",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "tank"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks",
+   "abilities"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "15",
+  "lane": [
+   "adc"
+  ],
+  "lowername": "sivir",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Sivir",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "72",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "skarner",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Skarner",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "tank"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "37",
+  "lane": [
+   "support"
+  ],
+  "lowername": "sona",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Sona",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "enchanters"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "16",
+  "lane": [
+   "support"
+  ],
+  "lowername": "soraka",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Soraka",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "50",
+  "lane": [
+   "top",
+   "mid",
+   "support"
+  ],
+  "lowername": "swain",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Swain",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "enchanters",
+   "fighter"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "517",
+  "lane": [
+   "jungler",
+   "mid"
+  ],
+  "lowername": "sylas",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Sylas",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin",
+   "mage"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "134",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "syndra",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Syndra",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "223",
+  "lane": [
+   "top",
+   "mid",
+   "support"
+  ],
+  "lowername": "tahmkench",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Tahm Kench",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "tank",
+   "mage"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "163",
+  "lane": [
+   "jungler",
+   "mid"
+  ],
+  "lowername": "taliyah",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Taliyah",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks",
+   "abilities"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "91",
+  "lane": [
+   "jungler",
+   "mid"
+  ],
+  "lowername": "talon",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Talon",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "44",
+  "lane": [
+   "support"
+  ],
+  "lowername": "taric",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Taric",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "enchanters",
+   "tank"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "17",
+  "lane": [
+   "top"
+  ],
+  "lowername": "teemo",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Teemo",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "412",
+  "lane": [
+   "support"
+  ],
+  "lowername": "thresh",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Thresh",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "enchanters",
+   "tank"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "18",
+  "lane": [
+   "mid",
+   "adc"
+  ],
+  "lowername": "tristana",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Tristana",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "48",
+  "lane": [
+   "top",
+   "jungler"
+  ],
+  "lowername": "trundle",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Trundle",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "23",
+  "lane": [
+   "top"
+  ],
+  "lowername": "tryndamere",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Tryndamere",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "4",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "twistedfate",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Twisted Fate",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks"
+  ],
+  "damage": [
+   "magic",
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "29",
+  "lane": [
+   "jungler",
+   "adc",
+   "support"
+  ],
+  "lowername": "twitch",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Twitch",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic",
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "77",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "udyr",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Udyr",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "tank"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "6",
+  "lane": [
+   "top"
+  ],
+  "lowername": "urgot",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Urgot",
+  "range": [
+   "melee",
+   "range"
+  ],
+  "role": [
+   "fighter",
+   "tank"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic",
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "110",
+  "lane": [
+   "mid",
+   "adc"
+  ],
+  "lowername": "varus",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Varus",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "67",
+  "lane": [
+   "adc"
+  ],
+  "lowername": "vayne",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Vayne",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "45",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "veigar",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Veigar",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "161",
+  "lane": [
+   "mid",
+   "support"
+  ],
+  "lowername": "velkoz",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Vel'Koz",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "711",
+  "lane": [
+   "mid",
+   "support"
+  ],
+  "lowername": "vex",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Vex",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "254",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "vi",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Vi",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin",
+   "fighter"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "234",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "viego",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Viego",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "112",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "viktor",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Viktor",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "8",
+  "lane": [
+   "top",
+   "mid"
+  ],
+  "lowername": "vladimir",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Vladimir",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "fighter"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic",
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "106",
+  "lane": [
+   "jungler",
+   "top"
+  ],
+  "lowername": "volibear",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Volibear",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "tank"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "magic",
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "19",
+  "lane": [
+   "top",
+   "jungler"
+  ],
+  "lowername": "warwick",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Warwick",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": 62,
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "wukong",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Wukong",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin",
+   "fighter"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "498",
+  "lane": [
+   "adc"
+  ],
+  "lowername": "xayah",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Xayah",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "101",
+  "lane": [
+   "mid",
+   "support"
+  ],
+  "lowername": "xerath",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Xerath",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "5",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "xinzhao",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Xin Zhao",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "157",
+  "lane": [
+   "top",
+   "mid",
+   "adc"
+  ],
+  "lowername": "yasuo",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Yasuo",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "marksmen"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "777",
+  "lane": [
+   "top",
+   "mid"
+  ],
+  "lowername": "yone",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Yone",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin",
+   "fighter"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "83",
+  "lane": [
+   "top"
+  ],
+  "lowername": "yorick",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Yorick",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "assassin",
+   "fighter"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "easy"
+  ],
+  "id": "350",
+  "lane": [
+   "support"
+  ],
+  "lowername": "yuumi",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Yuumi",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "154",
+  "lane": [
+   "jungler"
+  ],
+  "lowername": "zac",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Zac",
+  "range": [
+   "melee"
+  ],
+  "role": [
+   "fighter",
+   "tank"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities",
+   "attacks"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "hybrid",
+   "single",
+   "aoe"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "238",
+  "lane": [
+   "jungler",
+   "mid"
+  ],
+  "lowername": "zed",
+  "mobility": [
+   "very mobile",
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Zed",
+  "range": [
+   "melee",
+   "range"
+  ],
+  "role": [
+   "assassin"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "physical"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "221",
+  "lane": [
+   "adc"
+  ],
+  "lowername": "zeri",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Zeri",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "marksmen"
+  ],
+  "time": [
+   "late"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "115",
+  "lane": [
+   "mid",
+   "adc"
+  ],
+  "lowername": "ziggs",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Ziggs",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "26",
+  "lane": [
+   "mid",
+   "support"
+  ],
+  "lowername": "zilean",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Ziliean",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "single"
+  ],
+  "dash": [
+   "yes",
+   "no"
+  ],
+  "difficulty": [
+   "hard"
+  ],
+  "id": "142",
+  "lane": [
+   "mid"
+  ],
+  "lowername": "zoe",
+  "mobility": [
+   "mobile",
+   "not very mobile"
+  ],
+  "name": "Zoe",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage"
+  ],
+  "time": [
+   "early"
+  ]
+ },
+ {
+  "attack_type": [
+   "abilities"
+  ],
+  "damage": [
+   "magic"
+  ],
+  "damage_type": [
+   "aoe",
+   "hybrid"
+  ],
+  "dash": [
+   "no"
+  ],
+  "difficulty": [
+   "moderate",
+   "hard"
+  ],
+  "id": "143",
+  "lane": [
+   "support"
+  ],
+  "lowername": "zyra",
+  "mobility": [
+   "not very mobile"
+  ],
+  "name": "Zyra",
+  "range": [
+   "range"
+  ],
+  "role": [
+   "mage",
+   "enchanters"
+  ],
+  "time": [
+   "hybrid"
+  ]
+ }
+]

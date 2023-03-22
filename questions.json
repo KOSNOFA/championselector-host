@@ -1,0 +1,60 @@
+[{
+    "question":"In which lane you want to play ?",
+    "answer":["top","jungler","mid","adc","support"],
+    "nb_answer":"multiple",
+    "id":0
+},
+{
+    "question":"Do you want to be a melee or range ?",
+    "answer":["melee","range"],
+    "nb_answer":"single",
+    "id":1
+},
+{
+    "question":"Do you want to deal magic or physical damage ?",
+    "answer":["magic","physical"],
+    "nb_answer":"multiple",
+    "id":2
+},
+{
+    "question":"What is the maximum difficulty ?",
+    "answer":["easy","moderate","hard"],
+    "nb_answer":"single",
+    "id":3
+},
+{
+    "question":"Which role you prefer ?",
+    "answer":["assassin","fighter","mage","marksmen","enchanters","tank"],
+    "nb_answer":"multiple",
+    "id":4
+},
+{
+    "question":"Are you more confident with abilities or attacks ?",
+    "answer":["abilities","attacks"],
+    "nb_answer":"multiple",
+    "id":5
+},
+{
+    "question":"What is the minium mobility acceptable ?",
+    "answer":["not very mobile","mobile","very mobile"],
+    "nb_answer":"single",
+    "id":6
+},
+{
+    "question":"Does the champion need to have a dash ?",
+    "answer":["yes","no"],
+    "nb_answer":"single",
+    "id":7
+},
+{
+    "question":"Do you prefer early or late game ?",
+    "answer":["early","hybrid","late"],
+    "nb_answer":"single",
+    "id":8
+},
+{
+    "question":"Would you rather deals AOE or single target damage ?",
+    "answer":["aoe","hybrid","single"],
+    "nb_answer":"single",
+    "id":9
+}]
