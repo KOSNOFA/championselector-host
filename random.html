@@ -12,34 +12,39 @@
     <link rel="icon" href="./icon.png">
 
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="quiz.css">
+    <link rel="stylesheet" href="random.css">
 </head>
 <body>
     <nav>
 
     </nav>
     <main>
-        <div class="quiz-page">
+        <div class="random-page">
             <img class="logo" src="./logo.png">
-            <div class="result-container">
+            
+            <div class="wheel-container">
+                <img class="cursor" src="./cursor.png">
+                <div class="wheel">
+                    <div class="champion-container">
+                    </div>
+                </div>
             </div>
-            <p class="number-champion"></p>
-            <p class="question-container"></p>
-            <p class="error-status"></p>
-            <div class="answer-container" id="answer-container">
+            <div class="lanes">
+                <button onclick="CheckAnswer(this)">top</button>
+                <button onclick="CheckAnswer(this)">jungler</button>
+                <button onclick="CheckAnswer(this)">mid</button>
+                <button onclick="CheckAnswer(this)">adc</button>
+                <button onclick="CheckAnswer(this)">support</button>
             </div>
-            <button class="skip-button" onclick="SkipQuestion()">All</button>
             <div class="buttons">
                 <button class="quit-button" onclick="window.location.href = 'index.html';">Quit</button>
-                <button class="restart-button hide" onclick="window.location.href = 'quiz.html';">Restart</button>
-                <button class="back-button" onclick="PreviousQuestion()">Back</button>
-                <button class="result-button hide" onclick="ResultQuiz()">Result</button>
-                <button class="next-button" onclick="NextQuestion()">Next</button>  
+                <button class="start-button" onclick="LaunchWheel()">Start</button>
+                <button class="restart-button hide" onclick="window.location.href = 'random.html';">Restart</button>
             </div>
         </div>
         </div>
     </main>
     <footer>whowilliplaytoday.com - 2023</footer>
-    <script src="quiz.js"></script>
+    <script src="random.js"></script>
 </body>
 </html>

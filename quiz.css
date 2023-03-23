@@ -4,18 +4,23 @@
     align-items: center;
     flex-direction: column;
     row-gap: 20px;
-    padding: 50px;
-    min-width: 78vw;
+    padding: 30px;
+    min-width: 80vw;
     min-height: 50vh;
     background-color: rgba(0,0,0,0.4);
     box-shadow: 0 0 80px rgba(0,0,0,1);
+}
+
+.quiz-page.result-page .logo {
+    width: 400px;
+    margin-bottom: 20px;
 }
 
 .logo {
     width: 500px;
 }
 
-.quiz-page.result {
+.quiz-page.result-page {
     min-width: 30vw;
     min-height: 50vh;
 }
@@ -27,6 +32,7 @@
 
 .question-container {
     font-size: 60px;
+    text-align: center;
     background: -webkit-linear-gradient(#C89B3C,#785A28);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -142,18 +148,6 @@ button {
     font-size: 30px;
 }
 
-.result-title {
-    display: none;
-    background: -webkit-linear-gradient(#C89B3C,#785A28);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 50px;
-}
-
-.result-title.display {
-    display: block;
-}
-
 .result-container {
     display: flex;
     flex-direction: column;
@@ -162,13 +156,14 @@ button {
 
 .result {
     display: flex;
+    align-items: center;
     column-gap: 20px;
     transition: 0.2s;
 }
 
 .result a {
     color: white;
-    font-size: 35px;
+    font-size: 30px;
 }
 
 .result:hover {
@@ -177,6 +172,84 @@ button {
 }
 
 .result img {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
+}
+
+
+@media screen and (max-width: 480px) {
+    .quiz-page {
+        row-gap: 10px;
+        padding: 10px;
+        width: 100vw;
+    }
+
+    .logo {
+        width: 300px;
+    }
+
+    .quiz-page.result-page .logo {
+        width: 300px;
+        margin-bottom: 10px;
+    }
+
+    .number-champion {
+        font-size: 25px;
+    }
+
+    .question-container {
+        font-size: 30px;
+    }
+
+    .answer-container {
+        display: grid;
+        grid-template-columns: 0.8fr 0.8fr;
+        column-gap: 10px;
+        row-gap: 10px;
+    }
+
+    .answer {
+        padding-left: 15px;
+        font-size: 16px;
+        height: 50px;
+        width: 150px;
+        overflow: hidden;
+    }
+
+    .buttons {
+        display: flex;
+        column-gap: 10px;
+        margin-top: 10px;
+    }
+    
+    button {
+        font-size: 18px;
+        height: 50px;
+        width: 100px;
+    }
+
+
+    .champion-name {
+        font-size: 20px;
+    }
+    
+    .result-container {
+        display: grid;
+        grid-template-columns: 0.8fr 0.8fr;
+        row-gap: 10px;
+    }
+    
+    .result {
+        column-gap: 15px;
+    }
+
+    .result a {
+        font-size: 20px;
+    }
+
+    .result img {
+        width: 50px;
+        height: 50px;
+    }
+    
 }

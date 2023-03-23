@@ -1,0 +1,184 @@
+.random-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 40px;
+    padding: 30px;
+    background-color: rgba(0,0,0,0.4);
+    box-shadow: 0 0 80px rgba(0,0,0,1);
+}
+
+.logo {
+    width: 500px;
+}
+
+
+button {
+    color: white;
+    background-color: rgb(30,40,45);
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient(to top, #785A28, #C89B3C) 1;
+    border-radius: 1px;
+
+    font-size: 18px;
+    height: 50px;
+    width: 150px;
+}
+
+button:hover {
+    cursor: pointer;
+    border-color: rgb(200, 170, 110);
+    transform: scale(1.05);
+}
+
+button:active {
+    transform: scale(1.025);
+}
+
+button:active {
+    border-color: rgb(240, 230, 210);
+}
+
+.buttons {
+    display: flex;
+    column-gap: 50px;
+    margin-top: 30px;
+}
+
+.wheel-container {
+    position: relative;
+}
+
+.wheel {
+    width: 20vw;
+    height: 40vh;
+
+    background-color: rgb(1, 10, 19);
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient(to top, #785A28, #C89B3C) 1;
+    border-radius: 1px;
+
+    
+
+    overflow: hidden;
+}
+
+.cursor {
+    position: absolute;
+
+    z-index: 10;
+
+    top: 45%;
+    right: -5%;
+
+    width: 70px;
+}
+
+.champion-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    row-gap: 8px;
+
+    transition: ease-in-out 5s;
+}
+
+
+
+.champion {
+    width: 90%;
+    height: 8vh;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    column-gap: 40px;
+
+    background-color: rgb(30,40,45);
+
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient(to top, #785A28, #C89B3C) 1;
+    border-radius: 1px;
+    padding-left: 20px;
+}
+
+.champion img {
+    height: 80%;
+}
+
+.champion p {
+    font-size: 25px;
+}
+
+
+.lanes {
+    display: flex;
+    column-gap: 10px;
+}
+
+
+.lanes button {
+    position: relative;
+    cursor: pointer;
+    text-align: left;
+    padding-left: 15px;
+    font-size: 18px;
+    height: 50px;
+    width: 150px;
+    overflow: hidden;
+}
+
+.lanes button::before {
+    content: "";
+    position: absolute;
+    top: -200%;
+    left: -200%;
+    width: 150%;
+    height: 500%;
+    transform: rotate(45deg);
+    background-color: #005A82;
+    
+    opacity: 0.1;
+    transition: all 0.5s ease-in-out;
+}
+
+.lanes button.is-checked::before {
+    left: 0;
+    opacity: 0.3;
+    background-color: #0AC8B9;
+}
+
+.lanes button.is-checked {
+    box-shadow: 0 0 15px #0AC8B9;
+}
+
+.lanes button::first-letter {
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 480px) {
+    .logo {
+        width: 300px;
+    }
+
+    .wheel {
+        width: 70vw;
+        height: 35vh;
+    }
+
+    .cursor {
+        width: 60px;
+    }
+
+    .champion img {
+        height: 80%;
+    }
+    
+    .champion p {
+        font-size: 20px;
+    }
+}

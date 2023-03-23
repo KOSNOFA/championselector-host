@@ -29,7 +29,7 @@
 }
 
 
-.start-button {
+button {
     font-size: 35px;
     height: 70px;
     width: 200px;
@@ -43,7 +43,7 @@
     overflow: hidden;
 }
 
-.start-button:before {
+button:before {
     content: "";
     position: absolute;
     top: 0;
@@ -55,22 +55,29 @@
     transition: all 0.4s ease-in-out;
 }
 
-.start-button:hover:before {
+button:hover:before {
     left: 100%;
 }
 
-.start-button:hover {
+button:hover {
     cursor: pointer;
     box-shadow: 0 0 20px #0AC8B9;
     transform: scale(1.05);
 }
 
-.start-button:active {
+button:active {
     border-color: rgb(240, 230, 210);
 }
 
 
+@media screen and (max-width: 480px) {
+    .logo {
+        width: 300px;
+    }
 
-
-
-
+    button {
+        font-size: 30px;
+        height: 60px;
+        width: 180px;
+    }
+}
