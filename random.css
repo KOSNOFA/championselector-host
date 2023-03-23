@@ -14,7 +14,7 @@
 }
 
 
-button {
+.buttons button {
     color: white;
     background-color: rgb(30,40,45);
     border-width: 4px;
@@ -27,17 +27,17 @@ button {
     width: 150px;
 }
 
-button:hover {
+.buttons button:hover {
     cursor: pointer;
     border-color: rgb(200, 170, 110);
     transform: scale(1.05);
 }
 
-button:active {
+.buttons button:active {
     transform: scale(1.025);
 }
 
-button:active {
+.buttons button:active {
     border-color: rgb(240, 230, 210);
 }
 
@@ -50,6 +50,46 @@ button:active {
 .wheel-container {
     position: relative;
 }
+
+
+
+.wheel-container.result {
+    animation-name: shadow;
+    animation-duration: 5s;
+    animation-timing-function: ease-in-out;
+  }
+  
+@keyframes shadow {
+    0% {
+        box-shadow: none;
+    }
+    20% {
+        box-shadow: 0 0 8px 8px #0AC8B9;
+    }
+    40% {
+        box-shadow: none;
+    }
+    60% {
+        box-shadow: 0 0 8px 8px #0AC8B9;
+    }
+    80% {
+        box-shadow: none;
+    }
+    90% {
+        box-shadow: 0 0 8px 8px #0AC8B9;;
+    }
+    100% {
+        box-shadow: 0 0 6px 6px #0AC8B9;
+    }
+}
+
+.wheel-container.finish {
+    box-shadow: 0 0 6px 6px #0AC8B9;
+}
+
+
+
+
 
 .wheel {
     width: 20vw;
@@ -122,38 +162,32 @@ button:active {
 
 
 .lanes button {
-    position: relative;
+    background-image: linear-gradient(to top, rgb(3, 151, 171),rgb(30,40,45));
+    border-width: 1px;
+    border-style: solid;
+
     cursor: pointer;
     text-align: left;
     padding-left: 15px;
     font-size: 18px;
     height: 50px;
     width: 150px;
-    overflow: hidden;
+
+    border-color: rgb(10, 200, 185);
+
+    transition: 0.3s;
+
+    border-radius: 4px;
 }
 
-.lanes button::before {
-    content: "";
-    position: absolute;
-    top: -200%;
-    left: -200%;
-    width: 150%;
-    height: 500%;
-    transform: rotate(45deg);
-    background-color: #005A82;
-    
-    opacity: 0.1;
-    transition: all 0.5s ease-in-out;
-}
-
-.lanes button.is-checked::before {
-    left: 0;
-    opacity: 0.3;
-    background-color: #0AC8B9;
+.lanes button:hover {
+    scale: 1.04;
 }
 
 .lanes button.is-checked {
-    box-shadow: 0 0 15px #0AC8B9;
+    border-color: rgb(205, 250, 250);
+    box-shadow: 0 0 15px rgb(205, 250, 250);
+    background-image: linear-gradient(to top, rgb(10, 200, 185),rgb(3, 151, 171),rgb(30,40,45));
 }
 
 .lanes button::first-letter {

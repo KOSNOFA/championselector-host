@@ -74,38 +74,32 @@ button {
 
 
 .answer {
-    position: relative;
+    background-image: linear-gradient(to top, rgb(3, 151, 171),rgb(30,40,45));
+    border-width: 1px;
+    border-style: solid;
+
     cursor: pointer;
     text-align: left;
     padding-left: 15px;
     font-size: 18px;
-    height: 60px;
-    width: 200px;
-    overflow: hidden;
+    height: 50px;
+    width: 150px;
+
+    border-image: none;
+    border-color: rgb(10, 200, 185);
+    border-radius: 4px;
+
+    transition: 0.3s;
 }
 
-.answer::before {
-    content: "";
-    position: absolute;
-    top: -115px;
-    left: -200%;
-    width: 150%;
-    height: 500%;
-    transform: rotate(45deg);
-    background-color: #005A82;
-    
-    opacity: 0.1;
-    transition: all 0.5s ease-in-out;
-}
-
-.answer.is-checked::before {
-    left: 0;
-    opacity: 0.3;
-    background-color: #0AC8B9;
+.answer:hover {
+    scale: 1.04;
 }
 
 .answer.is-checked {
-    box-shadow: 0 0 15px #0AC8B9;
+    border-color: rgb(205, 250, 250);
+    box-shadow: 0 0 15px rgb(205, 250, 250);
+    background-image: linear-gradient(to top, rgb(10, 200, 185),rgb(3, 151, 171),rgb(30,40,45));
 }
 
 /* .answer span {
@@ -116,17 +110,16 @@ button {
 
 
 
-.quiz-page button:hover {
+.skip-button:hover,
+.buttons button:hover {
     cursor: pointer;
     border-color: rgb(200, 170, 110);
     transform: scale(1.05);
 }
 
-.quiz-page button:active {
+.skip-button:active,
+.buttons button:active {
     transform: scale(1.025);
-}
-
-.quiz-page button:active {
     border-color: rgb(240, 230, 210);
 }
 

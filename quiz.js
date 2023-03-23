@@ -91,7 +91,6 @@ function QuickResult() {
         }
         user_result = [...new Set(champions_array)];
 
-        console.log(user_result);
         NumberChampion.innerText = `${user_result.length} Champions`;
         
         if (user_result.length <= 5) {
@@ -104,7 +103,6 @@ function QuickResult() {
 
 function ResultQuiz() {
     user_result = []
-    console.log(user_tags);
     fetch('./champions.json')
     .then((response) => response.json())
     .then(champions => {
@@ -136,7 +134,6 @@ function ResultQuiz() {
             }
         }
         user_result = [...new Set(champions_array)];
-        console.log(user_result)
         fetch('./champions_id.json')
         .then((response) => response.json())
         .then(ids => {
@@ -190,6 +187,7 @@ function LoadNextQuestion() {
     .then(questions => {
         index_question++;
         if (index_question < questions.length) {
+            NbQuestionActions();
             nb_answer_question = questions[index_question]["nb_answer"];
             QuestionContainer.innerText = questions[index_question]["question"];
 
@@ -215,6 +213,7 @@ function LoadPreviousQuestion() {
         if (index_question > 0) {
             index_question--;
             nb_answer_question = questions[index_question]["nb_answer"];    
+            NbQuestionActions();
             QuestionContainer.innerText = questions[index_question]["question"];
 
             let html = '';
@@ -282,6 +281,21 @@ function CheckAnswer(element) {
         }
     }
     element.classList.toggle("is-checked");
+}
+
+
+function NbQuestionActions() {
+    if (index_question == 0) {
+        document.querySelector('.back-button').classList.add("dark");
+    } else {
+        document.querySelector('.back-button').classList.remove("dark");
+    }
+    if (index_question == nb_question-1) {
+        document.querySelector('.next-button').classList.add("hide");
+        document.querySelector('.result-button').classList.remove("hide");
+    } else {
+        document.querySelector('.next-button').classList.remove("hide");
+    }
 }
 
 LoadNextQuestion();

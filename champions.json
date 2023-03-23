@@ -363,7 +363,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "22",
   "lane": [
@@ -636,7 +638,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "201",
   "lane": [
@@ -871,7 +875,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "122",
   "lane": [
@@ -951,7 +957,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "36",
   "lane": [
@@ -1222,7 +1230,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "114",
   "lane": [
@@ -1385,7 +1395,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "86",
   "lane": [
@@ -1507,7 +1519,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "104",
   "lane": [
@@ -2846,7 +2860,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "99",
   "lane": [
@@ -2886,7 +2902,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "54",
   "lane": [
@@ -2964,7 +2982,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "57",
   "lane": [
@@ -3003,7 +3023,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "11",
   "lane": [
@@ -3041,7 +3063,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "21",
   "lane": [
@@ -3077,7 +3101,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "82",
   "lane": [
@@ -3116,7 +3142,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "25",
   "lane": [
@@ -3191,7 +3219,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "75",
   "lane": [
@@ -3473,7 +3503,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "2",
   "lane": [
@@ -3874,7 +3906,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "421",
   "lane": [
@@ -3914,7 +3948,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "526",
   "lane": [
@@ -3992,7 +4028,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "58",
   "lane": [
@@ -4303,7 +4341,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "147",
   "lane": [
@@ -4343,7 +4383,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "875",
   "lane": [
@@ -4701,7 +4743,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "16",
   "lane": [
@@ -4982,7 +5026,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "44",
   "lane": [
@@ -5019,7 +5065,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "17",
   "lane": [
@@ -5376,7 +5424,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "110",
   "lane": [
@@ -5527,7 +5577,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "711",
   "lane": [
@@ -5724,7 +5776,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "106",
   "lane": [
@@ -5765,7 +5819,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "19",
   "lane": [
@@ -5805,7 +5861,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "62",
   "lane": [
@@ -5921,7 +5979,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "5",
   "lane": [
@@ -6085,7 +6145,9 @@
    "no"
   ],
   "difficulty": [
-   "easy"
+   "easy",
+   "moderate",
+   "hard"
   ],
   "id": "350",
   "lane": [

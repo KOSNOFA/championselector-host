@@ -35,6 +35,10 @@ button {
     display: none;
 }
 
+*.dark {
+    filter: brightness(50%);
+}
+
 footer {
     width: 100vw; 
     text-align: center;

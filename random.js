@@ -78,8 +78,18 @@ function LaunchWheel() {
         pos2 += height;
     }
     document.querySelector('.champion-container').style.transform = "translateY("+pos+"px)";
+    document.querySelector('.wheel-container').classList.add("result");
+    document.querySelector('.wheel-container').classList.add("finish");
     document.querySelector('.start-button').classList.add("hide");
     document.querySelector('.restart-button').classList.remove("hide");
+
+    LanesDiv = document.getElementById("lanes").children;
+    for (let i = 0; i < LanesDiv.length; i++) {
+        if (LanesDiv[i].classList.contains("is-checked") == false) {
+            LanesDiv[i].classList.add("dark");
+        }
+    }
+
     result = true;
 }
 
