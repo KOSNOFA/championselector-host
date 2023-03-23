@@ -177,7 +177,7 @@ button {
 
 @media screen and (max-width: 480px) {
     .quiz-page {
-        row-gap: 10px;
+        row-gap: 15px;
         padding: 10px;
         width: 100vw;
     }
@@ -196,7 +196,7 @@ button {
     }
 
     .question-container {
-        font-size: 30px;
+        font-size: 35px;
     }
 
     .answer-container {
@@ -223,7 +223,7 @@ button {
     button {
         font-size: 18px;
         height: 50px;
-        width: 100px;
+        width: 80px;
     }
 
 
