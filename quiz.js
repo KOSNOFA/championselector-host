@@ -163,6 +163,10 @@ function ResultQuiz() {
             AnwserContainer.innerHTML = "";
             QuestionContainer.innerText = "";
 
+            if (user_result.length <= 5) {
+                document.querySelector('.result-container').classList.add("flex");
+            }
+
 
 
             document.querySelector('.back-button').classList.add("hide");
@@ -209,9 +213,8 @@ function LoadPreviousQuestion() {
     .then((response) => response.json())    
     .then(questions => {
         if (index_question > 0) {
-            nb_answer_question = questions[index_question]["nb_answer"];
             index_question--;
-
+            nb_answer_question = questions[index_question]["nb_answer"];    
             QuestionContainer.innerText = questions[index_question]["question"];
 
             let html = '';

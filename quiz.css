@@ -17,7 +17,7 @@
 }
 
 .logo {
-    width: 500px;
+    width: 400px;
 }
 
 .quiz-page.result-page {
@@ -144,11 +144,17 @@ button {
 
 
 .champion-name {
-    color: white;
     font-size: 30px;
 }
 
 .result-container {
+    display: grid;
+    grid-template-columns: 0.8fr 0.8fr;
+    column-gap: 50px;
+    row-gap: 10px;
+}
+
+.result-container.flex {
     display: flex;
     flex-direction: column;
     row-gap: 10px;
@@ -162,7 +168,6 @@ button {
 }
 
 .result a {
-    color: white;
     font-size: 30px;
 }
 
@@ -172,8 +177,8 @@ button {
 }
 
 .result img {
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
 }
 
 

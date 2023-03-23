@@ -10,7 +10,7 @@
 }
 
 .logo {
-    width: 500px;
+    width: 400px;
 }
 
 
@@ -160,18 +160,33 @@ button:active {
     text-transform: uppercase;
 }
 
+
+@media screen and (max-width: 1250px) {
+    .wheel {
+        width: 40vh;
+    }
+}
+
 @media screen and (max-width: 480px) {
+    .random-page {
+        row-gap: 20px;
+        width: 100vw;
+    }
     .logo {
         width: 300px;
     }
 
     .wheel {
         width: 70vw;
-        height: 35vh;
+        height: 30vh;
     }
 
     .cursor {
         width: 60px;
+    }
+
+    .champion {
+        width: 85%;
     }
 
     .champion img {
@@ -180,5 +195,17 @@ button:active {
     
     .champion p {
         font-size: 20px;
+    }
+
+    .lanes {
+        display: grid;
+        grid-template-columns: 0.8fr 0.8fr;
+        row-gap: 5px;
+        column-gap: 5px;
+    }
+
+    .buttons {
+        margin-top: 10px;
+        column-gap: 20px;
     }
 }
