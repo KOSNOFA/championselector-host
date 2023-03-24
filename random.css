@@ -3,7 +3,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    row-gap: 40px;
+    row-gap: 25px;
     padding: 30px;
     background-color: rgba(0,0,0,0.4);
     box-shadow: 0 0 80px rgba(0,0,0,1);

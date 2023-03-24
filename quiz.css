@@ -31,7 +31,7 @@
 
 
 .question-container {
-    font-size: 60px;
+    font-size: 40px;
     text-align: center;
     background: -webkit-linear-gradient(#C89B3C,#785A28);
     -webkit-background-clip: text;
@@ -46,7 +46,7 @@
 
 .answer-container {
     display: flex;
-    column-gap: 50px;
+    column-gap: 30px;
 }
 
 button {
@@ -228,7 +228,7 @@ button {
 
 
     .champion-name {
-        font-size: 20px;
+        font-size: 40px;
     }
     
     .result-container {

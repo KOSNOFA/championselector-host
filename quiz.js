@@ -143,6 +143,9 @@ function ResultQuiz() {
                 html = `<p class="champion-name">There is no champions for you...</p>`;
             } else {
                 for (let i = 0; i < user_result.length; i++) {
+                    if (user_result.length == 1) {
+                        document.querySelector('.champion-name').classList.remove("hide");
+                    }
                     if (i > 6) {
                         html+= `<p class="champion-name">More champions...</p>`;
                         break;
