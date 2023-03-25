@@ -33,7 +33,8 @@
 .question-container {
     font-size: 40px;
     text-align: center;
-    background: -webkit-linear-gradient(#C89B3C,#785A28);
+    font-family: LeagueOfLegendsTitle;
+    background: -webkit-linear-gradient(#C8AA6E,#C89B3C);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -172,6 +173,7 @@ button {
 .result img {
     width: 60px;
     height: 60px;
+    filter: saturate(1);
 }
 
 

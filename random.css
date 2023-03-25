@@ -148,6 +148,7 @@
 
 .champion img {
     height: 80%;
+    filter: saturate(1);
 }
 
 .champion p {
