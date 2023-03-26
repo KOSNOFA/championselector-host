@@ -9,33 +9,47 @@
     <meta name="author" content="Kevin Afonso">
     <title>Champion Selector</title>
 
-    <link rel="icon" href="./icon.png">
+    <link rel="icon" href="./img/icon.png">
 
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="quiz.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/quiz.css">
+    <link rel="stylesheet" href="./css/navbar.css">
+
 
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9417977387016963"
      crossorigin="anonymous"></script>
 </head>
 <body>
     <nav>
-
+        <div class="left">
+            <a href="https://www.youtube.com/channel/UCTV3cJNck0TD5y3kRlWZ2ZA"><img src="./img/youtube.png"></a>
+            <a href="https://www.tiktok.com/@championselector"><img src="./img/tiktok.png"></a>
+            <a href="https://www.instagram.com/champ_selector/"><img src="./img/instagram.png"></a>
+        </div>
+        <div class="middle">
+            <button type="button" onclick="window.location.href = 'quiz.html';">Classic</button>
+            <button type="button" onclick="window.location.href = 'index.html';">Menu</button>
+            <button type="button" onclick="window.location.href = 'random.html';">Random</button>
+        </div>
+        <div class="right">
+            <p>Thank you for using my website ! Don't forget to share it</p>
+        </div>
     </nav>
     <main>
         <div class="quiz-page">
-            <img class="logo" src="./logo.png">
-            <p class="champion-name hide">Your soul champion is:</p>
-            <div class="result-container">
-            </div>
+            <img class="logo" src="./img/logo.png" onclick="window.locate.href = 'index.html';">
+            <p class="soul-champion hide">Your soul champion is:</p>
             <p class="number-champion"></p>
             <p class="question-container"></p>
             <p class="error-status"></p>
             <div class="answer-container" id="answer-container">
             </div>
             <button class="skip-button" onclick="SkipQuestion()">All</button>
+
+            <div class="result-container">
+            </div>
+
             <div class="buttons">
-                <button class="quit-button" onclick="window.location.href = 'index.html';">Quit</button>
-                <button class="restart-button hide" onclick="window.location.href = 'quiz.html';">Restart</button>
                 <button class="back-button" onclick="PreviousQuestion()">Back</button>
                 <button class="result-button hide" onclick="ResultQuiz()">Result</button>
                 <button class="next-button" onclick="NextQuestion()">Next</button>  
@@ -56,6 +70,6 @@
         (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
     </div>
-    <script src="quiz.js"></script>
+    <script src="./js/quiz.js"></script>
 </body>
 </html>

@@ -9,24 +9,38 @@
     <meta name="author" content="Kevin Afonso">
     <title>Champion Selector</title>
 
-    <link rel="icon" href="./icon.png">
+    <link rel="icon" href="./img/icon.png">
 
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="random.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/random.css">
+    <link rel="stylesheet" href="./css/navbar.css">
+
 
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9417977387016963"
      crossorigin="anonymous"></script>
 </head>
 <body>
     <nav>
-
+        <div class="left">
+            <a href="https://www.youtube.com/channel/UCTV3cJNck0TD5y3kRlWZ2ZA"><img src="./img/youtube.png"></a>
+            <a href="https://www.tiktok.com/@championselector"><img src="./img/tiktok.png"></a>
+            <a href="https://www.instagram.com/champ_selector/"><img src="./img/instagram.png"></a>
+        </div>
+        <div class="middle">
+            <button type="button" onclick="window.location.href = 'quiz.html';">Classic</button>
+            <button type="button" onclick="window.location.href = 'index.html';">Menu</button>
+            <button type="button" onclick="window.location.href = 'random.html';">Random</button>
+        </div>
+        <div class="right">
+            <p>Thank you for using my website ! Don't forget to share it</p>
+        </div>
     </nav>
     <main>
         <div class="random-page">
-            <img class="logo" src="./logo.png">
+            <img class="logo" src="./img/logo.png">
             
             <div class="wheel-container">
-                <img class="cursor" src="./cursor.png">
+                <img class="cursor" src="./img/cursor.png">
                 <div class="wheel">
                     <div class="champion-container">
                     </div>
@@ -60,6 +74,6 @@
         (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
     </div>
-    <script src="random.js"></script>
+    <script src="./js/random.js"></script>
 </body>
 </html>

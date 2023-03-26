@@ -13,10 +13,10 @@ function Contains(list, x) {
 
 function LoadChampions(more=false) {
 
-    fetch('./champions_id.json')
+    fetch('../data/champions_id.json')
         .then((response) => response.json())
         .then(ids => {
-            fetch('./champions.json')
+            fetch('../data/champions.json')
             .then((response) => response.json())
             .then(champions => {
                 let container = document.querySelector('.champion-container');

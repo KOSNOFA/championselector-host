@@ -1,0 +1,64 @@
+nav {
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 40px;
+    background-color: rgba(0,0,0,0.85);
+}
+
+nav button {
+    font-size: 16px;
+    background: none;
+    border: none;
+    outline: none;
+    height: 100%;
+    width: 100px;
+}
+
+nav button:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+.left,
+.middle,
+.right {
+    display: flex;
+    width: 33%;
+    align-items: center;
+    justify-content: center;
+}
+
+.left {
+    justify-content: start;
+    column-gap: 15px;
+}
+
+.left a img {
+    height: 30px;
+}
+
+.right {
+    justify-content: end;
+}
+
+
+.right p {
+    font-size: 15px;
+}
+
+.middle {
+    column-gap: 20px;
+}
+
+@media screen and (max-width: 480px) {
+    .left,
+    .right {
+        display: none;
+    }
+}

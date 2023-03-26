@@ -7,6 +7,9 @@ const NumberChampion = document.querySelector('.number-champion');
 
 const nb_question = 10;
 
+
+const VERSION = "13.6.1";
+
 var questions;
 var index_question = -1;
 var nb_answer_question;
@@ -62,7 +65,7 @@ function Contains(list, x) {
 
 function QuickResult() {
     user_result = []
-    fetch('./champions.json')
+    fetch('../data/champions.json')
     .then((response) => response.json())
     .then(champions => {
         var champions_array = champions;
@@ -103,7 +106,7 @@ function QuickResult() {
 
 function ResultQuiz() {
     user_result = []
-    fetch('./champions.json')
+    fetch('../data/champions.json')
     .then((response) => response.json())
     .then(champions => {
         var champions_array = champions;
@@ -134,28 +137,73 @@ function ResultQuiz() {
             }
         }
         user_result = [...new Set(champions_array)];
-        fetch('./champions_id.json')
+        fetch('../data/champions_id.json')
         .then((response) => response.json())
         .then(ids => {
             
             let html = "";
             if (user_result.length == 0) {
+                ResultContainer.classList.add("one");
                 html = `<p class="champion-name">There is no champions for you...</p>`;
             } else {
+                if (user_result.length == 1) {
+                    ResultContainer.classList.add("one");
+                } else if (user_result.length == 2) {
+                    ResultContainer.classList.add("two");
+                }
                 for (let i = 0; i < user_result.length; i++) {
                     if (user_result.length == 1) {
-                        document.querySelector('.champion-name').classList.remove("hide");
+                        document.querySelector('.soul-champion').classList.remove("hide");
                     }
-                    if (i > 6) {
-                        html+= `<p class="champion-name">More champions...</p>`;
+
+                    if (i > 15) {
                         break;
                     }
                     html_segment = `
                     <div class="result">
-                        <img class="champion-img" src="http://ddragon.leagueoflegends.com/cdn/13.5.1/img/champion/${ids[user_result[i]["id"]]}.png">
-                        <a class="champion-name">${user_result[i]["name"]}</a>
+                        <div class="top-result">
+                            <img class="champion-img" src="http://ddragon.leagueoflegends.com/cdn/13.6.1/img/champion/${ids[user_result[i]["id"]]}.png">
+                            <div class="right-result">
+                                <a class="champion-name">${user_result[i]["name"]}</a>
+                    `;
+                    let lanes = user_result[i]["lane"][0];
+                    for (let j = 1; j < user_result[i]["lane"].length; j++) {
+                        lanes+= ", "+user_result[i]["lane"][j];
+                    }
+                    html_segment+=`
+                                <p class="lane-result">${lanes}</p>
+                            </div>
+                        </div>
+                        <div class="bottom-result">
+                    `;
+                    let roles = user_result[i]["role"][0];
+                    for (let j = 1; j < user_result[i]["role"].length; j++) {
+                        roles+= ", "+user_result[i]["role"][j];
+                    }
+
+                    let damage = user_result[i]["damage"][0];
+                    for (let j = 1; j < user_result[i]["damage"].length; j++) {
+                        damage+= ", "+user_result[i]["damage"][j];
+                    }
+
+                    let attack_type = user_result[i]["damage_type"][0];
+                    for (let j = 1; j < user_result[i]["damage_type"].length; j++) {
+                        attack_type+= ", "+user_result[i]["damage_type"][j];
+                    }
+
+                    let dash = (user_result[i]["dash"].includes("yes"))?"yes":"no";
+
+                    html_segment+= `
+                            <p><span>Role:</span> ${roles}</p>
+                            <p><span>Damage:</span> ${damage}</p>
+                            <p><span>Attack type:</span> ${attack_type}</p>
+                            <p><span>Dash:</span> ${dash}</p>
+                            <p><span>Cc:</span> Yes</p>
+                        </div>
+                        <img class="background-result" src="http://ddragon.leagueoflegends.com/cdn/img/champion/splash/${ids[user_result[i]["id"]]}_0.jpg" alt="Aatrox">
                     </div>
                     `;
+
                     html+=html_segment;
                 };
             }
@@ -163,16 +211,11 @@ function ResultQuiz() {
             AnwserContainer.innerHTML = "";
             QuestionContainer.innerText = "";
 
-            if (user_result.length <= 5) {
-                document.querySelector('.result-container').classList.add("flex");
-            }
-
 
 
             document.querySelector('.back-button').classList.add("hide");
             document.querySelector('.next-button').classList.add("hide");
             document.querySelector('.skip-button').classList.add("hide");
-            document.querySelector('.restart-button').classList.remove("hide");
             document.querySelector('.result-button').classList.add("hide");
 
             document.querySelector('.quiz-page').classList.add("result-page");
@@ -185,7 +228,7 @@ function ResultQuiz() {
 
 
 function LoadNextQuestion() {
-    fetch('./questions.json')
+    fetch('../data/questions.json')
     .then((response) => response.json())    
     .then(questions => {
         index_question++;
@@ -210,7 +253,7 @@ function LoadNextQuestion() {
 }
 
 function LoadPreviousQuestion() {
-    fetch('./questions.json')
+    fetch('../data/questions.json')
     .then((response) => response.json())    
     .then(questions => {
         if (index_question > 0) {

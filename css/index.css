@@ -29,7 +29,7 @@
 }
 
 
-button {
+.start-page button {
     font-size: 35px;
     height: 70px;
     width: 200px;
@@ -43,7 +43,7 @@ button {
     overflow: hidden;
 }
 
-button:before {
+.start-page button:before {
     content: "";
     position: absolute;
     top: 0;
@@ -55,17 +55,17 @@ button:before {
     transition: all 0.4s ease-in-out;
 }
 
-button:hover:before {
+.start-page button:hover:before {
     left: 100%;
 }
 
-button:hover {
+.start-page button:hover {
     cursor: pointer;
     box-shadow: 0 0 20px #0AC8B9;
     transform: scale(1.05);
 }
 
-button:active {
+.start-page button:active {
     border-color: rgb(240, 230, 210);
 }
 

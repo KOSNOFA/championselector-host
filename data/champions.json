@@ -3048,6 +3048,44 @@
   ]
  },
  {
+    "attack_type": [
+     "abilities"
+    ],
+    "damage": [
+     "magic"
+    ],
+    "damage_type": [
+     "aoe",
+     "hybrid"
+    ],
+    "dash": [
+     "no"
+    ],
+    "difficulty": [
+     "moderate",
+     "hard"
+    ],
+    "id": "902",
+    "lane": [
+     "support"
+    ],
+    "lowername": "milio",
+    "mobility": [
+     "mobile"
+    ],
+    "name": "Milio",
+    "range": [
+     "range"
+    ],
+    "role": [
+     "mage",
+     "enchanters"
+    ],
+    "time": [
+     "hybrid"
+    ]
+ },
+ {
   "attack_type": [
    "abilities",
    "attacks"

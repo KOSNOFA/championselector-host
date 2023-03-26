@@ -3,44 +3,47 @@
     padding: 0;
     font-family: LeagueOfLegends,'Times New Roman', Times, serif;
     color: white;
+    z-index: 1;
 }
 
 @font-face {
     font-family: LeagueOfLegends;
-    src: url(font_lol.ttf);
+    src: url(../img/font_lol.ttf);
 }
 
 @font-face {
     font-family: LeagueOfLegendsTitle;
-    src: url(font_lol_title.otf);
+    src: url(../img/font_lol_title.otf);
 }
 
 body {
+    display: flex;
+    flex-direction: column;
     position: relative;
     filter: saturate(1.2);
 }
   
-body::before {
+html::before {
     content: "";
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('./background.jpg');
+    background-image: url('../img/background.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     filter: saturate(1.8);
     z-index: -1;
 }
 
 main {
+    margin-top: 80px;
     width: 100%;
-    height: 80vh;
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 button {
@@ -68,7 +71,7 @@ footer {
 
 .ad {
     width: 100%;
-    height: 15vh;
+    height: 200px;
     background-color: rgba(0,0,0,0.5);
 }
 
